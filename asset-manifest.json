@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Speech-to-Text/static/css/main.3a4bc944.css",
+    "main.js": "/Speech-to-Text/static/js/main.72847c72.js",
+    "static/js/453.ed3810f9.chunk.js": "/Speech-to-Text/static/js/453.ed3810f9.chunk.js",
+    "static/media/desert.jpg": "/Speech-to-Text/static/media/desert.1d553bfe2a05b319eb3e.jpg",
+    "index.html": "/Speech-to-Text/index.html",
+    "main.3a4bc944.css.map": "/Speech-to-Text/static/css/main.3a4bc944.css.map",
+    "main.72847c72.js.map": "/Speech-to-Text/static/js/main.72847c72.js.map",
+    "453.ed3810f9.chunk.js.map": "/Speech-to-Text/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a4bc944.css",
+    "static/js/main.72847c72.js"
+  ]
+}
